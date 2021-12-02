@@ -13,13 +13,11 @@
 ! ↓ Paste your filterlist entries below: ↓
 !
 ! Adguard Tracking Protection filter, segment specific:
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/specific.txt
+!#include https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/specific.txt
 !
 ! Adguard Tracking Protection filter, segment cookies:
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/cookies.txt
+!# include https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/cookies.txt
 !
 ! Adguard Tracking Protection filter, segment general_url:
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/general_url.txt
+!#include https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/general_url.txt
 !
-
-
