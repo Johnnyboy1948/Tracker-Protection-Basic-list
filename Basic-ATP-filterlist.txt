@@ -20,4 +20,7 @@
 !
 ! Adguard Tracking Protection filter, segment general_url:
 !#include https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/general_url.txt
+! 
+!AdGuard DNS Filter - Additional rules:
+!#include https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
 !
