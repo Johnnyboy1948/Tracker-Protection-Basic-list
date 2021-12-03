@@ -24,3 +24,6 @@
 !AdGuard DNS Filter - Additional rules:
 !#include https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
 !
+! EasyPrivacy filter, segment general:
+!#include https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_general.txt
+!
