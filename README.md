@@ -6,6 +6,6 @@ As soon as the Tracker Protection Basic list (raw-version) is placed in the Adgu
 The Tracker Protection Basic list is intended to be used next to an antitracker filterlist on DNS-level, for instance Steven Blacks filter or the much smaller Peter Lowe's filter.
 A combination with Adguards DNS-filter is also possible, but the Tracker Protection Basic list includes a segment (with about 600 rules) of that Adguard filter. In so far there is an overlap.
 
-For specific adblocking I recommend to use EasyList Optimized in the Adguard desktop app.
+For specific adblocking I prefer to use EasyList Optimized in the Adguard desktop app.
 
 All credits go to Sprout's Lucky Corner for his instruction to create an own adblocklist and of course to the suppliers of the segments.
