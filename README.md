@@ -8,4 +8,4 @@ A combination with Adguards DNS-filter is also possible, but the Tracker Protect
 
 For specific adblocking I prefer to use EasyList Optimized in the Adguard desktop app.
 
-All credits go to Sprout's Lucky Corner for his instruction to create an own adblocklist and of course to the suppliers of the segments.
+All credits go to Sprout's Lucky Corner for its instruction to create an own adblocklist and of course to the suppliers of the segments.
